@@ -5,7 +5,8 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <span className="theme-bejamas" />
-      <Component {...pageProps} />
+    <h1> Coming soon</h1>
+//       <Component {...pageProps} />
     </>
   );
 }
